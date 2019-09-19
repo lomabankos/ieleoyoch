@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahgahkaix.hangoutapp.site/sitemap.xml
